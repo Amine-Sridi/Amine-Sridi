@@ -59,7 +59,7 @@ Assistive device with OCR + text-to-speech for dyslexic readers — IEEE TSYP 13
 </td>
 <td width="50%">
 
-### [Digital Twin for 4G/5G Decongestion]([https://github.com/Amine-Sridi](https://github.com/Amine-Sridi/Digital-Twin-for-Network-Decongestion))
+### [Digital Twin for 4G/5G Decongestion]([https://github.com/Amine-Sridi](https://github.com/Amine-Sridi/Digital-Twin-for-Network-Decongestion)
 Network optimization via digital twin simulation — ODC Hackathon
 
 **Tech:** Python, Traffic Modeling, 4G/5G KPIs, Simulation  
