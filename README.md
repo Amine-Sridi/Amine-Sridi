@@ -50,7 +50,7 @@ Computer vision model for agricultural disease classification — built for IEEE
 <tr>
 <td width="50%">
 
-### [LexiPal – Smart Stylus for Dyslexia](https://github.com/Amine-Sridi)
+### [LexiPal – Smart Stylus for Dyslexia](https://github.com/Amine-Sridi/Lexipal)
 Assistive device with OCR + text-to-speech for dyslexic readers — IEEE TSYP 13
 
 **Tech:** ESP32-CAM, Python, OCR, Flutter, Wi-Fi  
