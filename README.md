@@ -14,7 +14,7 @@
 
 ## About Me
 
-2nd-year Software Engineering student at **ENIT**, specializing in **Artificial Intelligence and Data Science**.
+Final-year Software Engineering student at **ENIT**, specializing in **Artificial Intelligence and Data Science**.
 
 Passionate about **machine learning**, **computer vision**, and **intelligent systems** — I build end-to-end AI solutions ranging from anomaly detection in encrypted traffic to embedded OCR pipelines.
 
