@@ -142,12 +142,6 @@ Member & Treasurer of the joint IAS-IES-PES chapter. Actively involved in organi
 
 ---
 
-## Activity Graph
-
-[![Amine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amine-Sridi&theme=tokyo-night&hide_border=true)](https://github.com/Amine-Sridi)
-
----
-
 ## Let's Connect!
 
 I'm always open to collaborating on **AI/ML research**, **computer vision**, **intelligent systems**, or any project at the intersection of data and real-world impact!
