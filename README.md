@@ -138,7 +138,7 @@ Network optimization via digital twin simulation — ODC Hackathon
 ## Leadership & Community
 
 **IEEE ENIT Student Branch** (Oct 2024 – Jan 2026)  
-Member & Treasurer of the joint IAS-IES-PES chapter. Actively involved in organizing technical events and workshops.
+Former Webmaster & Treasurer of the joint IAS-IES-PES chapter. Actively involved in organizing technical events and workshops.
 
 ---
 
