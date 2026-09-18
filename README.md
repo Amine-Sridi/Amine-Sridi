@@ -118,6 +118,16 @@ Network optimization via digital twin simulation — ODC Hackathon
 
 ## Professional Experience
 
+**Sintegra Consulting** | Generative AI Intern 
+
+`June 2026 – Aug 2026`
+- Designed an internal AI knowledge platform for semantic search across company documentation.
+- Implemented an end-to-end RAG pipeline using embeddings, vector databases, and LLMs for grounded natural-language retrieval.
+- Developed AI agents that combined retrieval and workflow orchestration to automate knowledge access and internal processes.
+
+*Technologies: Python, LLMs, RAG, Embeddings, Vector Databases, LangChain, FastAPI, n8n*
+
+
 **Enova Robotics** | Full Stack Development Intern  
 `June 2025 – August 2025`
 - Built an intelligent simulation system for the **UR10e robotic arm** with real-time 3D visualization using Three.js
