@@ -19,6 +19,7 @@ Final-year Software Engineering student at **ENIT**, specializing in **Artificia
 Passionate about **machine learning**, **computer vision**, and **intelligent systems** — I build end-to-end AI solutions ranging from anomaly detection in encrypted traffic to embedded OCR pipelines.
 
 🏆 **NVIDIA Certified** – Transformer-based NLP & Multimodal AI Agents (2025)  
+🤖 **Generative AI intern**  @ Sintegra Consulting 
 🤖 **Fullstack Intern** @ Enova Robotics – Built an intelligent simulation system for the UR10e robotic arm  
 ⚡ **IEEE Member** – Treasurer of the IAS-IES-PES joint chapter at ENIT  
 
